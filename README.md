@@ -193,5 +193,5 @@ hm=sns.heatmap(data=data)
 
 
 # Result:
-          Thus Data Visualization using seaborn python library for the given data is done successfully.
+Thus Data Visualization using seaborn python library for the given data is done successfully.
  
